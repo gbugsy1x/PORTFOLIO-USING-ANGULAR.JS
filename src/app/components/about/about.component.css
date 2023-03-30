@@ -1,0 +1,17 @@
+.bout {
+    font-weight: bold;
+    font-size: 5rem;
+    color: #484848;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background-color: #2e96f3;
+  }
+  #aboutme {
+    font-size: 1.3rem;
+    color: #484848;
+    line-height: 1.4;
+    text-align: justify;
+    background-color: #f2f2f2;
+    padding: 0 10%;
+  }

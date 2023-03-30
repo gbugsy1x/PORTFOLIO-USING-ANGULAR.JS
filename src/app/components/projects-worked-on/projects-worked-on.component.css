@@ -1,0 +1,25 @@
+#heading {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .project {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .tech {
+    color: green;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 5px;
+  }
+
+  div {
+    background-color: #785f56;
+  }

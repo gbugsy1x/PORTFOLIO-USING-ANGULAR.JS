@@ -1,0 +1,21 @@
+.main-content {
+    background-color: lightblue;
+}
+#name {
+    color: blue;
+}
+#location {
+    color: black;
+}
+#phoneNumber {
+    color: green;
+}
+#email {
+    color: red;
+}
+#linkedin {
+    color: purple;
+}
+#github {
+    color: pink;
+}
